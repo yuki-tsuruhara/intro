@@ -1,2 +1,4 @@
 これからgitの操作を学んでいきます。
 追加の文章です！
+.git add
+.git commit
