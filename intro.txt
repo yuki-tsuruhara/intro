@@ -2,3 +2,5 @@
 追加の文章です！
 .git add
 .git commit
+.git rm
+.git status
